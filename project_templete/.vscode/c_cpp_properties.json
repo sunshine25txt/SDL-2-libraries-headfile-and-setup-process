@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "MinGW",
+            "includePath": [
+                "${workspaceFolder}/**",
+             "D:\\project hub\\headerfile\\SDL2-devel-2.28.5-mingw\\SDL2-2.28.5\\i686-w64-mingw32\\include\\SDL2"
+            ],
+            "defines": [],
+            "compilerPath": "C:/MinGW/bin/g++.exe",  // Adjust to your MinGW path
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
+}
